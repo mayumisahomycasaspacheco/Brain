@@ -31,4 +31,4 @@ Finally, the program allows users to repeat the experience or exit with confirma
 - Store user scores in a file to keep track of progress over time.
 - Implement a ranking system to compare performance between different users or sessions.
 - Add a timer for each question to increase the challenge and improve reaction speed.
--Expand the game to include other arithmetic operations such as addition, subtraction, and division.
+- Expand the game to include other arithmetic operations such as addition, subtraction, and division.
